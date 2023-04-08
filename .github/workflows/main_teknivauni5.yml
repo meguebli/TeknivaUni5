@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'TeknivaUni5'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C58BBA9163104A97B83F1B0CA4833BCE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7247335065554DC0A494AE536D5566F5 }}
           package: .
