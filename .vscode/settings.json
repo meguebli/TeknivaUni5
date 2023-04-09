@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/dac99ae1-1ede-4f48-9f7d-4d1b43610615/resourceGroups/tekniva-form01_group/providers/Microsoft.Web/sites/TeknivaUni5",
+    "appService.deploySubpath": "dist\\tekniva-uni5"
+}
